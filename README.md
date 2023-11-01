@@ -2,6 +2,7 @@
 👨‍⚖️SPRING BOOT É UM FRAMEWORK DE DESENVOLVIMENTO DE APLICATIVOS JAVA QUE SIMPLIFICA A CONFIGURAÇÃO E O DESENVOLVIMENTO DE APLICATIVOS BASEADOS EM SPRING. ELE FORNECE UMA ESTRUTURA PRONTA PARA USO, QUE INCLUI CONFIGURAÇÃO AUTOMÁTICA, GERENCIAMENTO DE DEPENDÊNCIAS E UM SERVIDOR EMBUTIDO, FACILITANDO A CRIAÇÃO DE APLICATIVOS JAVA DE FORMA RÁPIDA E EFICIENTE.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=SPRING-BOOT)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL0j7juv7l4HgSY7gNDzNQjgwEA5s4hzjx&si=P6w-CHYBz_VrEaQI)
