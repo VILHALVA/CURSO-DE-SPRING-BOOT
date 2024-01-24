@@ -2,15 +2,9 @@
 👨‍⚖️SPRING BOOT É UM FRAMEWORK DE DESENVOLVIMENTO DE APLICATIVOS JAVA QUE SIMPLIFICA A CONFIGURAÇÃO E O DESENVOLVIMENTO DE APLICATIVOS BASEADOS EM SPRING. ELE FORNECE UMA ESTRUTURA PRONTA PARA USO, QUE INCLUI CONFIGURAÇÃO AUTOMÁTICA, GERENCIAMENTO DE DEPENDÊNCIAS E UM SERVIDOR EMBUTIDO, FACILITANDO A CRIAÇÃO DE APLICATIVOS JAVA DE FORMA RÁPIDA E EFICIENTE.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=SPRING-BOOT)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVA) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL0j7juv7l4HgSY7gNDzNQjgwEA5s4hzjx&si=P6w-CHYBz_VrEaQI)
-
-<img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 O Spring Boot é uma estrutura que simplifica o desenvolvimento de aplicativos Java, facilitando a criação de aplicativos web, microserviços e aplicativos empresariais. Ele fornece muitas funcionalidades e abstrai grande parte da configuração, tornando o desenvolvimento mais rápido e fácil.
