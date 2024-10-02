@@ -1,4 +1,4 @@
-# APENDICE
+# APÊNDICE
 ## INSTALAÇÕES:
 ### 1. INSTALAR O JAVA DEVELOPMENT KIT (JDK):
    - Baixe e instale o JDK mais recente da Oracle ou OpenJDK:
