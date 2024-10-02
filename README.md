@@ -65,7 +65,6 @@ Atualmente, o Spring Boot é amplamente adotado em uma variedade de setores e em
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVA)
-- [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA O APÊNDICE](./APENDICE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:SPRING-BOOT)
